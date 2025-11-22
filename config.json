@@ -117,6 +117,7 @@
       "name": "TV-U酷资源",
       "detail": "https://api.ukuapi88.com",
       "is_adult": false
+    },
     "yayazy": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "name": "TV-丫丫点播",
@@ -218,7 +219,7 @@
     },
     "sdzyapi": {
       "api": "https://sdzyapi.com/api.php/provide/vod", 
-      "name": "TV-闪电资源"
+      "name": "TV-闪电资源",
       "detail": "https://sdzyapi.com",
       "is_adult": false
     },
